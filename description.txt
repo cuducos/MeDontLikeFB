@@ -1,0 +1,7 @@
+Following Elan Morgan's experiment - stop liking things on Facebook - this extension removes the like buttons and links from the user interface.
+
+It removes only the 'Like' from posts and comments – you still can like pages, for example. It does not affect other social functions such as comment or share.
+
+Report issues and contribute at GitHub: http://github.com/cuducos/MeDontLikeFB
+
+Elan Morgan's post on this topic: https://medium.com/@schmutzie/i-quit-liking-things-on-facebook-for-two-weeks-heres-how-it-changed-my-view-of-humanity-29b5102abace 
