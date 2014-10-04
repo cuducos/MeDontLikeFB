@@ -1,7 +1,7 @@
 {
   "name": "Me Don't Like Facebook",
   "short_name": "MeDontLikeFB",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Make your Facebook better, stop liking things.",
   "content_scripts": [{
       "matches": ["*://*.facebook.com/*"],
