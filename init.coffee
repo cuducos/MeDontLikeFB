@@ -1,6 +1,5 @@
-$ ->
-  window.setInterval remove_likes, 500
+$ -> window.setInterval rmlikes, 250
 
-remove_likes = ->
+rmlikes = ->
   likes = ['a.UFILikeLink', 'a.likeButton']
   $(item).remove() for item in likes
